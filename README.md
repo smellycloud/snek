@@ -1,0 +1,2 @@
+# snek
+Python 🐍 game because 🤷‍♀️
